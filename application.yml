@@ -1,6 +1,4 @@
-spring:
-  application:
-     name: CLOUD-CONFIG
+
 
 eureka:
   client:
